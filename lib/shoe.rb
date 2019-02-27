@@ -17,5 +17,3 @@ class Shoe
   end
 
 end
-
-binding.pry
